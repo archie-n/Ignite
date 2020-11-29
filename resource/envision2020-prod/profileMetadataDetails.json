@@ -55,12 +55,15 @@
         "OptionsPath": "industry"
       },
       {
-        "DisplayTitle": "Country",
-        "FieldName": "country",
-        "Style": "readonly",
+        "DisplayTitle": "Country of Business",
+        "FieldName": "businessCountry",
+        "Style": "inputText",
         "Class": "",
-        "Path": "detail.country",
-        "Value": ""
+        "Path": "detail.businessCountry",
+        "Value": "",
+        "OptionalAttributes": {
+          "MinimumLength": 2
+        }
       },
       {
         "DisplayTitle": "Biography",
