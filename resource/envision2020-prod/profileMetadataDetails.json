@@ -60,7 +60,11 @@
         "Style": "textArea",
         "Class": "",
         "Path": "detail.biography",
-        "Value": ""
+        "Value": "",
+         "OptionalAttributes": {
+            "MinimumLength": 10,
+            "MaximumLength": 20
+        }
       },
       {
         "DisplayTitle": "LinkedIn",
