@@ -43,7 +43,7 @@
         "Value": "",
         "OptionalAttributes": {
           "MinimumLength": "2",
-          "MaximumLength": "255"
+          "MaximumLength": "20"
         }
       },
       {
