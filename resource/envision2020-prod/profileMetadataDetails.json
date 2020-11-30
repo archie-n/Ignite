@@ -26,6 +26,22 @@
         "Value": ""
       },
       {
+        "DisplayTitle": "Preferred First Name",
+        "FieldName": "PreferredFirst",
+        "Style": "inputText",
+        "Class": "",
+        "Path": "detail.PreferredFirst",
+        "Value": ""
+      },
+       {
+        "DisplayTitle": "Preferred Last Name",
+        "FieldName": "PreferredLast",
+        "Style": "inputText",
+        "Class": "",
+        "Path": "detail.preferredLast",
+        "Value": ""
+      },
+      {
         "DisplayTitle": "Job title",
         "FieldName": "JobCategory",
         "Style": "selectGroup",
