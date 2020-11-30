@@ -30,7 +30,7 @@
         "FieldName": "PreferredFirst",
         "Style": "inputText",
         "Class": "",
-        "Path": "detail.PreferredFirst",
+        "Path": "detail.preferredFirst",
         "Value": ""
       },
        {
