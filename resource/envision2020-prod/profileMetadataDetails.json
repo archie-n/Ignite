@@ -42,7 +42,7 @@
         "Path": "detail.company",
         "Value": "",
         "OptionalAttributes": {
-          "MinimumLength": 2
+          "MinimumLength": "2"
         }
       },
       {
@@ -62,8 +62,8 @@
         "Path": "detail.biography",
         "Value": "",
          "OptionalAttributes": {
-            "MinimumLength": 10,
-            "MaximumLength": 20
+            "MinimumLength": "10",
+            "MaximumLength": "20"
         }
       },
       {
