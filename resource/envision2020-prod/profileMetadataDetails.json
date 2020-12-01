@@ -67,9 +67,9 @@
         "FieldName": "topicsOfInterest",
         "Style": "multiSelect",
         "Class": "",
-        "Path": "detail.topicsOfInterest",
+        "Path": "detail.topicsInterested",
         "Value": "",
-        "OptionsPath": "topicsOfInterest"
+        "OptionsPath": "topicsInterested"
       },
       {
         "DisplayTitle": "Industry",
