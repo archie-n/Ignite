@@ -43,12 +43,12 @@
       },
       {
         "DisplayTitle": "Job title",
-        "FieldName": "JobCategory",
-        "Style": "selectGroup",
+        "FieldName": "Title",
+        "Style": "Options",
         "Class": "",
-        "Path": "detail.jobCategory",
+        "Path": "detail.title",
         "Value": "",
-        "OptionsPath": "jobCategory"
+        "OptionsPath": "title"
       },
       {
         "DisplayTitle": "Company",
@@ -64,7 +64,7 @@
       },
       {
         "DisplayTitle": "Industry",
-        "FieldName": "industry",
+        "FieldName": "CompanyIndustry",
         "Style": "Options",
         "Class": "",
         "Path": "detail.companyIndustry",
