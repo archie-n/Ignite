@@ -118,12 +118,12 @@
             "Path": "optins.canBeFound",
             "Value": ""
           },
-          {
-            "DisplayTitle": "translate.profile-edit.publicly-visible",
-            "FieldName": "IsPubliclyVisible",
+           {
+            "DisplayTitle": "translate.profile-edit.do-not-stc-meeting-appointments",
+            "FieldName": "SendToCalendarMeetingAppointments",
             "Style": "checkbox",
             "Class": "",
-            "Path": "optins.isPubliclyVisible",
+            "Path": "optins.doNotSendToCalendarMeetingAppointments",
             "Value": ""
           }
         ]
