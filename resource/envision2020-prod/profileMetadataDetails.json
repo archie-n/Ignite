@@ -62,15 +62,6 @@
           "MaximumLength": "20"
         }
       },
-       {
-        "DisplayTitle": "translate.profile.label.topics-of-interest",
-        "FieldName": "topicsOfInterest",
-        "Style": "multiSelect",
-        "Class": "",
-        "Path": "detail.topic",
-        "Value": "",
-        "OptionsPath": "topic"
-      },
       {
         "DisplayTitle": "Industry",
         "FieldName": "industry",
