@@ -43,12 +43,12 @@
       },
       {
         "DisplayTitle": "Job title",
-        "FieldName": "Title",
+        "FieldName": "JobTitle",
         "Style": "Options",
         "Class": "",
-        "Path": "detail.title",
+        "Path": "detail.jobTitle",
         "Value": "",
-        "OptionsPath": "title"
+        "OptionsPath": "jobTitle"
       },
       {
         "DisplayTitle": "Company",
