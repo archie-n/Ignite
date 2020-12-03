@@ -60,7 +60,7 @@
         "OptionalAttributes": {
           "RegexValidationText": "Please enter your company name without unnecessary spaces. Single line text entries only.",
           "MinimumLength": "2",
-          "MaximumLength": "200"
+          "MaximumLength": "10"
         }
       },
       {
@@ -102,7 +102,6 @@
         "OptionalAttributes": {
           "Regex": "^https?://www.twitter.com/.+$",
           "RegexValidationText": "Please enter in the form of 'http://www.twitter.com/*' or 'https://www.twitter.com/*'",
-          "MinimumLength": "2",
           "MaximumLength": "50"
         }
       },
