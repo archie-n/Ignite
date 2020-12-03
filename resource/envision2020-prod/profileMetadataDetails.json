@@ -58,7 +58,9 @@
         "Path": "detail.companyName",
         "Value": "",
         "OptionalAttributes": {
-          "RegexValidationText": "Please enter your company name without unnecessary spaces. Single line text entries only."
+          "RegexValidationText": "Please enter your company name without unnecessary spaces. Single line text entries only.",
+          "MinimumLength": "2",
+          "MaximumLength": "200"
         }
       },
       {
