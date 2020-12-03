@@ -56,7 +56,11 @@
         "Style": "inputText",
         "Class": "",
         "Path": "detail.companyName",
-        "Value": ""
+        "Value": "",
+        "OptionalAttributes": {
+          "Regex": "^(?:\S).*\S$",
+          "RegexValidationText": "Please enter your company name without unnecessary spaces. Single line text entries only."
+        }
       },
       {
         "DisplayTitle": "Industry",
