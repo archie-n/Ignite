@@ -52,15 +52,11 @@
       },
       {
         "DisplayTitle": "Company",
-        "FieldName": "Company",
+        "FieldName": "CompanyName",
         "Style": "inputText",
         "Class": "",
-        "Path": "detail.company",
-        "Value": "",
-        "OptionalAttributes": {
-          "MinimumLength": "2",
-          "MaximumLength": "20"
-        }
+        "Path": "detail.companyName",
+        "Value": ""
       },
       {
         "DisplayTitle": "Industry",
@@ -118,7 +114,7 @@
             "Path": "optins.canBeFound",
             "Value": "",
             "OptionalAttributes": {
-                "AriaLabel": "Its christmas time"
+                "AriaLabel": "Click here to make your profile and information public in the attendee directory."
               }
           },
            {
