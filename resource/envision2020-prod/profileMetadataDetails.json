@@ -58,7 +58,6 @@
         "Path": "detail.companyName",
         "Value": "",
         "OptionalAttributes": {
-          "Regex": "[^\s]+",
           "RegexValidationText": "Please enter your company name without unnecessary spaces. Single line text entries only."
         }
       },
