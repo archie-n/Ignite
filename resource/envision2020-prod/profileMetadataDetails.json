@@ -116,7 +116,10 @@
             "Style": "checkbox",
             "Class": "",
             "Path": "optins.canBeFound",
-            "Value": ""
+            "Value": "",
+            "OptionalAttributes": {
+                "AriaLabel": "Its christmas time"
+              }
           },
            {
             "DisplayTitle": "translate.profile-edit.do-not-stc-meeting-appointments",
