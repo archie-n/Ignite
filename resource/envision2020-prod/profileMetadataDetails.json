@@ -31,7 +31,11 @@
         "Style": "inputText",
         "Class": "",
         "Path": "detail.preferredFirst",
-        "Value": ""
+        "Value": "",
+        "OptionalAttributes": {
+          "MinimumLength": 2,
+          "MaximumLength": 100
+        }
       },
        {
         "DisplayTitle": "Preferred Last Name",
@@ -39,7 +43,11 @@
         "Style": "inputText",
         "Class": "",
         "Path": "detail.preferredLast",
-        "Value": ""
+        "Value": "",
+        "OptionalAttributes": {
+          "MinimumLength": 2,
+          "MaximumLength": 100
+        }
       },
       {
         "DisplayTitle": "Job title",
