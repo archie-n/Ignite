@@ -101,7 +101,8 @@
         "OptionalAttributes": {
           "Regex": "^https?://www.twitter.com/.+$",
           "RegexValidationText": "Please enter in the form of 'http://www.twitter.com/*' or 'https://www.twitter.com/*'",
-          "MaximumLength": "50"
+          "MaximumLength": "50",
+          "MinimumLength": "1"
         }
       },
       {
