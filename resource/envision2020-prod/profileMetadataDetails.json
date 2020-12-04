@@ -46,7 +46,10 @@
         "Value": "",
         "OptionalAttributes": {
           "MinimumLength": 2,
-          "MaximumLength": 100
+          "MaximumLength": 100,
+          "Regex": "^https?://www.linkedin.com/in/.+$",
+          "RegexValidationText": "Please enter in the form of 'http://www.linkedin.com/in/*' or 'https://www.linkedin.com/in/*'",
+          
         }
       },
       {
