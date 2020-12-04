@@ -52,13 +52,14 @@
       },
       {
         "DisplayTitle": "Company",
-        "FieldName": "CompanyName",
+        "FieldName": "Company",
         "Style": "inputText",
         "Class": "",
-        "Path": "detail.companyName",
+        "Path": "detail.company",
         "Value": "",
         "OptionalAttributes": {
-          "MaximumLength": "10"
+          "MinimumLength": 2,
+          "MaximumLength: 75
         }
       },
       {
