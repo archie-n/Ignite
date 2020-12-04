@@ -124,14 +124,6 @@
             "OptionalAttributes": {
                 "AriaLabel": "Click here to make your profile and information public in the attendee directory."
               }
-          },
-           {
-            "DisplayTitle": "translate.profile-edit.do-not-stc-meeting-appointments",
-            "FieldName": "SendToCalendarMeetingAppointments",
-            "Style": "checkbox",
-            "Class": "",
-            "Path": "optins.doNotSendToCalendarMeetingAppointments",
-            "Value": ""
           }
         ]
       }
