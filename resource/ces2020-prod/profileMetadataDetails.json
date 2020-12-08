@@ -99,7 +99,7 @@
         "Value": "",
         "OptionalAttributes": {
           "Regex": "^https?://www.twitter.com/.+$",
-          "RegexValidationText": "Please your twitter handle starting with the @ symbol"
+          "RegexValidationText": "Please enter in the form of 'http://www.twitter.com/*' or 'https://www.twitter.com/*'"
         }
       },
       {
