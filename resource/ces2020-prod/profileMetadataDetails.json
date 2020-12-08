@@ -169,10 +169,10 @@
       },
       {
         "DisplayTitle": "I’m interested in",
-        "FieldName": "topics",
+        "FieldName": "interests",
         "Style": "multiSelect",
         "Class": "",
-        "Path": "detail.topics",
+        "Path": "detail.interests",
         "Value": "",
         "OptionsPath": "interests"
       },
