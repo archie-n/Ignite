@@ -169,12 +169,12 @@
       },
       {
         "DisplayTitle": "I’m interested in",
-        "FieldName": "interests",
+        "FieldName": "Topics",
         "Style": "multiSelect",
         "Class": "",
-        "Path": "detail.interests",
+        "Path": "detail.topics",
         "Value": "",
-        "OptionsPath": "interests"
+        "OptionsPath": "topics"
       },
       {
         "DisplayTitle": "I’m interested in connecting with",
