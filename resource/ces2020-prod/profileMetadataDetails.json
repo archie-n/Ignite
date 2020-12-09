@@ -181,7 +181,7 @@
         "FieldName": "JobTitlesInterested",
         "Style": "multiSelect",
         "Class": "",
-        "Path": "detail.jobTilesInterested",
+        "Path": "detail.jobTitlesOfInterest",
         "Value": "",
         "OptionsPath": "jobTilesInterested"
       }
