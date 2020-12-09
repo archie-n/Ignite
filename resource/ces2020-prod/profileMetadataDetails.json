@@ -98,7 +98,7 @@
         "Path": "social.twitter",
         "Value": "",
         "OptionalAttributes": {
-          "Regex": "^https?://www.twitter.com/.+|@[a-zA-Z0-9_]{1,15}$",
+          "Regex": "^https?://www.twitter.com/.+$",
           "RegexValidationText": "Please enter in the form of 'http://www.twitter.com/*' or 'https://www.twitter.com/*'"
         }
       },
